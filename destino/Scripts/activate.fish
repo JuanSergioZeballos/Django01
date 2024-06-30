@@ -58,7 +58,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV 'C:\Users\EQUIPO\Documents\TestEDA\DJANGO 01\destino'
+set -gx VIRTUAL_ENV 'C:\Users\EQUIPO\Music\Django01\destino'
 
 # https://github.com/fish-shell/fish-shell/issues/436 altered PATH handling
 if test (echo $FISH_VERSION | head -c 1) -lt 3

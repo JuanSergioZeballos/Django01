@@ -32,7 +32,7 @@ export-env {
       }
     }
 
-    let virtual_env = 'C:\Users\EQUIPO\Documents\TestEDA\DJANGO 01\destino'
+    let virtual_env = 'C:\Users\EQUIPO\Music\Django01\destino'
     let bin = 'Scripts'
 
     let is_windows = ($nu.os-info.family) == 'windows'
